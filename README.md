@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sammy-j2
-- 👀 I’m interested in ... arduino and esp32. I recently graduated in mechanical engineering and I feel like the only thing I learned was how to be a wannabe EE... Mechatronics was one of my favorite classes
+- 👀 I’m interested in ... arduino and esp32. I recently graduated in mechanical engineering and I feel like the only thing I learned was how to be a wannabe EE... Mechatronics was one of my favorite classes. After about a year of "big-boy" work I have returned to school as a grad studnet.
 - 🌱 I’m currently learning ... how to get better at programming embedded systems. I want to learn more C,C++, and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
